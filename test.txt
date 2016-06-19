@@ -1,0 +1,1 @@
+In software development, Node.js is an open-source, cross-platform runtime environment for developing server-side Web applications.
